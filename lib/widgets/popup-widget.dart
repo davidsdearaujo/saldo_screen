@@ -38,7 +38,7 @@ class _PopupWidgetState extends State<PopupWidget> {
                     ),
                     SizedBox(height: 25),
                     Container(
-                      height: 75,
+                      height: 85,
                       child: PageView(
                         children: <Widget>[
                           _buildItem(

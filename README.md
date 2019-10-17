@@ -1,6 +1,8 @@
-# desafio20190202
+# saldo_screen
 
-A new Flutter project.
+Tela de saldo desenvolvida em Flutter.
+
+<img src="screenshots/screenshot_1.png" style="width:49%"> <img src="screenshots/screenshot_2.png" style="width:49%">
 
 ## Getting Started
 

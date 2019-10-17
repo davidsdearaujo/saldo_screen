@@ -1,5 +1,5 @@
-import 'package:desafio20190202/widgets/item-widget.dart';
-import 'package:desafio20190202/widgets/popup-widget.dart';
+import 'package:saldo_screen/widgets/item-widget.dart';
+import 'package:saldo_screen/widgets/popup-widget.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -8,7 +8,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen>
-    with SingleTickerProviderStateMixin {
+    with TickerProviderStateMixin {
   AnimationController controller;
 
   Animation<double> listAnimation;
